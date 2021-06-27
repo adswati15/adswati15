@@ -10,7 +10,7 @@
 
 💬 Ask me about ... Anything
 
-📫 How to reach me: ... linkdin
+📫 How to reach me: ... linkedin
 
 😄 Pronouns: ... He/Him
 
