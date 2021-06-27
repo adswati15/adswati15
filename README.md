@@ -1,3 +1,3 @@
 ### Hi there 👋!
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<img src = "https://github-readme-stats.vercel.app/api?username=adswati15&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
 
