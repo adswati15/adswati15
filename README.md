@@ -10,7 +10,7 @@
 
 💬 Ask me about ... Anything
 
-📫 How to reach me: ... linkedin
+📫 How to reach me: ... linkedin www.linkedin.com/in/hmuhammadadeel
 
 😄 Pronouns: ... He/Him
 
