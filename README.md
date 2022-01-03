@@ -2,7 +2,7 @@
 
 🔭 I’m currently working at ... Salesflo
 
-🌱 I’m currently learning AWS ... 
+🌱 I’m AWS Certified Solution Architect Associate ... 
 
 👯 I’m looking to collaborate on ... Pyspark
 
