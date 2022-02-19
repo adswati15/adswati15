@@ -1,12 +1,12 @@
-### My name is Hafiz Muhammad Adeel and I'm a Data & Cloud enthusiast! 👋
+### My name is Hafiz Muhammad Adeel and I'm a Blockchain & NFT enthusiast! 👋
 
 🔭 I’m currently working at ... Salesflo
 
 🌱 I’m AWS Certified Solutions Architect Associate ... 
 
-👯 I’m looking to collaborate on ... Pyspark
+👯 I’m looking to collaborate on ... Solidity
 
-🤔 I’m looking for help with ... Real time ETL pipeline
+🤔 I’m looking for help with ... Defi & Aave
 
 💬 Ask me about ... Anything
 
