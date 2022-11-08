@@ -1,4 +1,4 @@
-### My name is Hafiz Muhammad Adeel and I'm a Blockchain & NFT enthusiast! 👋
+### My name is Hafiz Muhammad Adeel and I'm a Blockchain & DeFi enthusiast! 👋
 
 🔭 I’m currently working at ... Salesflo
 
