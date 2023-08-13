@@ -1,6 +1,6 @@
 ### My name is Hafiz Muhammad Adeel and I'm a Blockchain & DeFi enthusiast! 👋
 
-🔭 I’m currently working at ... Blink
+🔭 I’m currently working at ... Openport
 
 🌱 I’m AWS Certified Solutions Architect Associate ... 
 
